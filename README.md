@@ -1,6 +1,8 @@
 # Dynamic-LCA-Wastewater-Sludge-to-Nitrogen-Fertilizer
 Objective of study 
+
 Two publications; CRADA Report and STOTEN Journal
+
 Two accompanying versions of python code, developed in Jupyter Notebook through Anaconda
 # Environment setup
 Python packages 
