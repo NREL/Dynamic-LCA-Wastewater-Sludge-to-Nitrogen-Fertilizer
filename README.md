@@ -5,19 +5,19 @@ Two publications; CRADA Report and STOTEN Journal
 
 Two accompanying versions of python code, developed in Jupyter Notebook through Anaconda
 # Environment setup
-Python packages 
+Python packages: 
 
-install numpy
+pip install numpy
 
-install pandas 
+pip install pandas 
 
-install os
+pip install os
 
-install matplotlib
+pip install matplotlib
 
-install math
+pip install math
 
-install copy
+pip install copy
 # Required input files
 Interpolated LiAISON lifecycke emissions factors
 
