@@ -17,7 +17,7 @@ pip install math
 
 pip install copy
 # Required input files
-Interpolated LiAISON lifecycke emissions factors
+Interpolated LiAISON lifecycke emissions factors (i.e., liaison_results_lifecycle_EFs_interpolated_annual.csv)
 
 Input variable quantities for sensitivity analysis
 # Brief description of code setup
