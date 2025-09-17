@@ -1,5 +1,5 @@
 # Dynamic-LCA-Wastewater-Sludge-to-Nitrogen-Fertilizer
-Objective of study 
+The objective of this study is to conduct a cradle-to-grave, dynamic and prospective lifecycle assessment of environmental tradeoffs due to the production of nitrogen fertilizer from unused wastewater treated sludge (i.e., biosolids) with direct concentrated solar thermal energy as the drying treatment process relative to ammonia production from natural gas and electricity via the conventional Haber Bosch process. 
 
 Two publications; CRADA Report and STOTEN Journal
 
