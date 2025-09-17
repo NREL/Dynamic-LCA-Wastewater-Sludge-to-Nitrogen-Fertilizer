@@ -8,10 +8,15 @@ Two accompanying versions of python code, developed in Jupyter Notebook through 
 Python packages 
 
 install numpy
+
 install pandas 
+
 install os
+
 install matplotlib
+
 install math
+
 install copy
 # Required input files
 Interpolated LiAISON lifecycke emissions factors
