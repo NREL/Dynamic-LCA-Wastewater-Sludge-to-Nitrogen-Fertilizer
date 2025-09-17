@@ -3,7 +3,11 @@ The objective of this study is to conduct a cradle-to-grave, dynamic and prospec
 
 The primary outcomes of this study are two hand-written scientific publications, CRADA Techincal Report (DOI incoming) and STOTEN Journal Article (DOI incoming), and one pyhton-code based software publication (i.e., this Github repository). Due to the difference in scope of analysis reported by the CRADA Report and STOTEN Article, two accompanying versions of python code, developed in Jupyter Notebook through Anaconda, are both housed under this GitHub repository for the associated scientific publication. 
 # Environment setup
-Python packages: 
+install Anaconda
+
+open Anaconda Powershell Prompt 
+
+Type in the following commands line by line to 1) create a new python environment from scratch to dediciate to this GitHub repository and 2) install the python packages to the newly created environment that are required to run the python-coded scripts of this GitHub repository: 
 
 pip install numpy
 
