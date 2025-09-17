@@ -7,7 +7,11 @@ install Anaconda
 
 open Anaconda Powershell Prompt 
 
-Type in the following commands line by line to 1) create a new python environment from scratch to dediciate to this GitHub repository and 2) install the python packages to the newly created environment that are required to run the python-coded scripts of this GitHub repository: 
+Type in the following commands line by line to 1) create a new python environment from scratch to dedicate to this GitHub repository and 2) install the python packages to the newly created environment that are required to run the python-coded scripts of this GitHub repository: 
+
+conda create --name N_fert_lca_env
+
+conda activate N_fert_lca_env
 
 pip install numpy
 
